@@ -1,0 +1,6 @@
+{
+  "name": "MindMatrix",
+  "description": "Multilingual, safety-first support-resource navigation platform connecting people affected by crisis, violence, or disasters to verified real-world help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
